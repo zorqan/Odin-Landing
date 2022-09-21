@@ -1,3 +1,2 @@
-# GRU-Referees
-I will try to make an informational website, that gives an idea about Rugby refereeing in overal: who they are? why they are there? and what is their main obligations.
-I will use some pictures from Georgian Rugby Union website.
+#Odin Landing 
+spent way too much time on this, i just have only 3-4 hours a day maximum to practice my coding so be gentle :)
